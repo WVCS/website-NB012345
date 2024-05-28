@@ -1,3 +1,38 @@
 body {
-
+  background-color: #8FB996;
+  
+}
+h1 {
+  font-size: 250%;
+  letter-spacing: 1.75px;
+  color: #415D43;
+  text-decoration-line: underline;
+  font-family: "Garamond";
+}
+p{
+  font-size: 120%;
+  color: #709775;
+}
+img{ 
+width: 400px;
+border-style: solid;
+  border-color: #2F4858;
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+  font-family: "Garamond";
+  font-size: 150%;
+  position: fixed;
+}
+li{
+  float: left; 
+}
+li a{
+  padding: 10px;
+  color: #415D43;
+  border: solid;
+}
+li a:hover {
+  background-color: #709775; 
 }
