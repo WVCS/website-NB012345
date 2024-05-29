@@ -29,3 +29,14 @@ ul {
   font-size: 150%;
   position: fixed;
 }
+li {
+  float: left;
+}
+li a {
+  padding: 10px;
+  color: #415d43;
+  border: solid;
+}
+li a:hover {
+  background-color: #709775;
+}
