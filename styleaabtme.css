@@ -1,1 +1,31 @@
+body {
+  background-color: #8fb996;
+}
+h1 {
+  font-size: 250%;
+  letter-spacing: 1.75px;
+  color: #415d43;
+  text-decoration-line: underline;
+  font-family: "Garamond";
+}
+p {
+  font-size: 120%;
+  color: #709775;
+  font-family: "Garamond";
+}
+p1 {
+  font-size: 130%;
+  color: #415d43;
+  font-family: "Garamond";
+}
+img {
+  width: 400px;
+}
 
+ul {
+  text-align: center;
+  list-style-type: none;
+  font-family: "Garamond";
+  font-size: 150%;
+  position: fixed;
+}
